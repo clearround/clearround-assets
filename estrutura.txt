@@ -1,0 +1,14 @@
+clearround-assets/
+├─ index.html
+├─ logo/
+│  ├─ clre-black.png
+│  ├─ clre-white.png
+│  └─ clre-green.png
+├─ img/
+│  └─ officials-whatsapp.png
+└─ fonts/
+   ├─ AlbertSans.ttf
+   └─ AlbertSans-Italic.ttf
+
+
+https://clearround.github.io/clearround-assets/
